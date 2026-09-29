@@ -7,5 +7,5 @@
 window.DAT_TRUNG_CONFIG = {
   SUPABASE_URL: "https://ddmvfqnbanpxgrzzjziu.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_Gktjw_zBQywjMDtXLLWqNw_bLupXafn",
-  USE_SUPABASE: false
+  USE_SUPABASE: true
 };
